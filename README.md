@@ -1,6 +1,6 @@
 # Emaily
 
-Emaily is an application which is lets you send surveys (via email) to thousands of people at one time. It allows you to customise the content of the email, and tracks each response to the surveys in the dashboard.
+Emaily is an application which lets you send surveys (via email) to thousands of people at one time. It allows you to customise the content of the email, and tracks each response to the surveys in the dashboard.
 
 ### Logging In
 
